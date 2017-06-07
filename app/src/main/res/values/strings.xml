@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherForecastApp</string>
+    <string name="imgDescription">image</string>
+    <string name="strFlags">Flags</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strMoreInfo">More Info</string>
+    <string name="strDailyForecastTitle">7 day forecast</string>
+    <string name="strHourlyForecastTitle">Hourly Forecast</string>
+</resources>
